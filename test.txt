@@ -1,1 +1,1 @@
-passwd: dddd
+password: dddd
